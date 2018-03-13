@@ -241,7 +241,7 @@ class ErorrBoundary extends React.Component {
   }
 
   render() {
-    let { error, info } = this.state;
+    let { error, info } = this.props;
     if (error) {
       return this.props.render(error, info, this.reset);
     }
