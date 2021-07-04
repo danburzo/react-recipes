@@ -1,6 +1,6 @@
 # React Recipes
 
-> __Status__: The introduction of [Hooks](https://reactjs.org/docs/hooks-intro.html) has fundamentally changed how we write React. The official documentation is [currently being reorganized](https://github.com/reactjs/reactjs.org/issues/3308) around a hooks-first approach, and these articles need to similarly shift focus.
+> **Status**: The introduction of [Hooks](https://reactjs.org/docs/hooks-intro.html) has fundamentally changed how we write React. The official documentation is [currently being reorganized](https://github.com/reactjs/reactjs.org/issues/3308) around a hooks-first approach, and these articles need to similarly shift focus.
 
 ## Introduction
 
@@ -57,6 +57,7 @@ Notes on the various hooks available in React.
 - [**Writing custom hooks**](./recipes/custom-hooks.md)
 - [**`usePrevious`**](./recipes/custom-hooks/use-previous.md) — keep references to the previous value of thigs
 - [**`useBounds`**](./recipes/custom-hooks/use-bounds.md) — a few ways to measure DOM elements
+- [**`**useInitialRender`\*\*](./recipes/custom-hooks/use-initial-render.md) — distinguish between the initial render and subsequent renders
 
 ### The component and the outside world
 
