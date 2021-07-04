@@ -57,7 +57,7 @@ Notes on the various hooks available in React.
 - [**Writing custom hooks**](./recipes/custom-hooks.md)
 - [**`usePrevious`**](./recipes/custom-hooks/use-previous.md) — keep references to the previous value of thigs
 - [**`useBounds`**](./recipes/custom-hooks/use-bounds.md) — a few ways to measure DOM elements
-- [**`**useInitialRender`\*\*](./recipes/custom-hooks/use-initial-render.md) — distinguish between the initial render and subsequent renders
+- [**`useInitialRender`**](./recipes/custom-hooks/use-initial-render.md) — distinguish between the initial render and subsequent renders
 
 ### The component and the outside world
 
