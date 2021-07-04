@@ -1,5 +1,7 @@
 # React Recipes
 
+> __Status__: The introduction of [Hooks](https://reactjs.org/docs/hooks-intro.html) has fundamentally changed how we write React. The official documentation is [currently being reorganized](https://github.com/reactjs/reactjs.org/issues/3308) around a hooks-first approach, and these articles need to similarly shift focus.
+
 ## Introduction
 
 [This repository](https://github.com/danburzo/react-recipes/) contains some tried-and-tested ways to work with React that I picked up along the way, and in-depth explanations of how certain aspects of the library work.

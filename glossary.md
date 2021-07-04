@@ -1,6 +1,6 @@
 # Glossary
 
-The glossary explains some common React jargon in simpler terms.
+The glossary explains some common React jargon in simpler terms. See also [Glossary + Explain Like I'm Five](https://github.com/reactwg/react-18/discussions/46) in the React Working Group.
 
 #### ancestor component
 
